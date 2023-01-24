@@ -26,7 +26,7 @@ export PASSWORD_TRAEFIK=<your_password>
 
 ### Use script
 ```bash
-bash -c "$(curl -s https://raw.githubusercontent.com/PAPAMICA/docker-environment/main/install-docker-environment.sh)"
+bash -c "$(curl -s https://github.com/rouckyhood/docker-environment/blob/main/install-docker-environment.sh)"
 ```
 
 ### Redirect URL to IP
